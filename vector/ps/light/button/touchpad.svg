@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19 50V78C19 85.1797 24.8203 91 32 91H96C103.18 91 109 85.1797 109 78V50C109 42.8203 103.18 37 96 37H32C24.8203 37 19 42.8203 19 50Z" stroke="#2E2836" stroke-width="6"/>
+<circle cx="32" cy="50" r="4" fill="#191923"/>
+<circle cx="48" cy="50" r="4" fill="#191923"/>
+<circle cx="64" cy="50" r="4" fill="#191923"/>
+<circle cx="80" cy="50" r="4" fill="#191923"/>
+<circle cx="96" cy="50" r="4" fill="#191923"/>
+<circle cx="32" cy="64" r="4" fill="#191923"/>
+<circle cx="48" cy="64" r="4" fill="#191923"/>
+<circle cx="64" cy="64" r="4" fill="#191923"/>
+<circle cx="80" cy="64" r="4" fill="#191923"/>
+<circle cx="96" cy="64" r="4" fill="#191923"/>
+<circle cx="32" cy="78" r="4" fill="#191923"/>
+<circle cx="48" cy="78" r="4" fill="#191923"/>
+<circle cx="64" cy="78" r="4" fill="#191923"/>
+<circle cx="80" cy="78" r="4" fill="#191923"/>
+<circle cx="96" cy="78" r="4" fill="#191923"/>
+</svg>
