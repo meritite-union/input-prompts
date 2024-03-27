@@ -1,0 +1,5 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="64" cy="64" r="45" stroke="#2E2836" stroke-width="6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82 64H63V76H82V64ZM57 58V82H88V58H57Z" fill="#191923"/>
+<path d="M45 52H64H70V46H39V70H51V64H45V52Z" fill="#191923"/>
+</svg>
