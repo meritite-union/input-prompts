@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github_assets/cover_light.png">
   <img alt="The Meritite Union's Input Prompts" src="github_assets/cover.png">
 </picture>
+
 ## 1000+ vector & raster icons for all your game development needs.
 PlayStation, Xbox and PC prompts are complete and available now!
 Nintendo Switch prompts are in development.
