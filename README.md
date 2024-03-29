@@ -34,6 +34,9 @@ This has some implications which may impact how you use these assets.
 The following information relates to the `.svg` format.
 
 All prompts fit within a 128x128 bounding box. Stroke width is generally 6 pixels. Standard colors used include ![#191923 HEX color representation](github_assets/191923.svg) `#191923`, ![#2E2836 HEX color representation](github_assets/2e2836.svg) `#2E2836`, ![#C8CED0 HEX color representation](github_assets/c8ced0.svg) `#C8CED0`, and ![#FBFEF9 HEX color representation](github_assets/fbfef9.svg) `#FBFEF9`. These colors correspond to the standard Meritite Union grayscale colors, although they might not match your brand or game. You might have some SVG automation tool I'm unaware of, but if you need to make changes, I recommend modifying and exporting the icons from the [Figma file](https://www.figma.com/community/file/1354930683181049242/input-prompts) directly. Another thing to note is that the Xbox and PlayStation colored prompts **do not** match the official brand colors, instead they are based on the Meritite Union colors. This is to avoid potential trademark infringement.
-<marquee>woah</marquee>
 
 To try to help with import to whatever system you're using, I've formatted the file names to try to avoid your tools from throwing a fit. File and folder names consist of only lowercase a-z, underscore, and digits 0-9, although no file name begins with a digit. I'm not particularly experienced in these things, and I've only used a handful of tools. If there's a better format, please [let me know](https://github.com/meritite-union/input-prompts/issues/new)! Similarly, please leave an issue for any kind of feedback.
+\
+\
+\
+<img src="https://github.com/meritite-union/brand/blob/c0399ebfb77d66757c189edf77639b8a349f1d62/250x250.svg" width="35" height="35" alt="Meritite Union plain purple squid mascot" style="float:right;">
