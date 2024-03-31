@@ -5,14 +5,14 @@
 </picture>
 
 ## 1000+ iconos vectoriales y rasterizados por todas sus necesidades de gamedev.
-###### English [日本語](README.ja-jp.md)
+###### [English](README.md) [日本語](README.ja-jp.md) **español**
 Indicaciones de entrada del controlador ("**prompts**") de PlayStation, Xbox, y PC son listas y disponibles ahora.
-Nintendo Switch prompts are in development.
-Wii / Wii U, Steam Deck, generic, and more prompts are coming soon!
+Prompts de Nintendo Switch son en desarrollo.
+¡Prompts de Wii / Wii U, Steam Deck, generico, y más van pronto!
 
-Hi! This asset pack was made by @hergergy as part of the Meritite Union.
+Esa asset pack es hecho por @hergergy de una parte de la Meritite Union.
 
-Input Prompts is licensed under CC0 1.0 Universal. Permission is granted to use, distribute, and modify these resources. Attribution is not required, but always appreciated--publicity is the best support. Right now this project is not tied to anything official, so I would appreciate simply coming back later at future projects.
+Input Prompts es autorisado por el derecho CC0 1.0 Universal. Permiso es concedido de usar, distribuir, y modificar esos recursos. Atribución no es necesaria, pero siempre apreciado. Ahora ese proyecto no es conectado a nada oficial, luego apreciaría simplemente regresar más tarde por proyectos futuros.
 
 This project is directly inspired by [Kenny’s Input Prompts](https://www.kenney.nl/assets/input-prompts). [Xelu’s](https://thoseawesomeguys.com/prompts/) too. If you don’t like mine, check out theirs!
 
