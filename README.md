@@ -5,7 +5,7 @@
 </picture>
 
 ## 1000+ vector & raster icons for all your game development needs.
-###### English [日本語](README.ja-jp.md)
+###### **English** [日本語](README.ja-jp.md) [español](README.es.md)
 PlayStation, Xbox and PC prompts are complete and available now!
 Nintendo Switch prompts are in development.
 Wii / Wii U, Steam Deck, generic, and more prompts are coming soon!
