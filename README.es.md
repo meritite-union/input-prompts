@@ -12,32 +12,36 @@ Prompts de Nintendo Switch son en desarrollo.
 
 Esa asset pack es hecho por @hergergy de una parte de la Meritite Union.
 
-Input Prompts es autorisado por el derecho CC0 1.0 Universal. Permiso es concedido de usar, distribuir, y modificar esos recursos. Atribución no es necesaria, pero siempre apreciado. Ahora ese proyecto no es conectado a nada oficial, luego apreciaría simplemente regresar más tarde por proyectos futuros.
+Input Prompts es autorisado por el derecho CC0 1.0 Universal. Permiso es concedido de usar, distribuir, y modificar estos recursos. Atribución no es necesaria, pero siempre apreciado. Ahora, este proyecto no es conectado a nada oficial, luego apreciaría simplemente regresar más tarde por proyectos futuros.
 
-This project is directly inspired by [Kenny’s Input Prompts](https://www.kenney.nl/assets/input-prompts). [Xelu’s](https://thoseawesomeguys.com/prompts/) too. If you don’t like mine, check out theirs!
+Este proyecto es directamente inspirado por [Kenny’s Input Prompts](https://www.kenney.nl/assets/input-prompts) y [Xelu’s](https://thoseawesomeguys.com/prompts/). Si a usted no le gusta mío, las mira.
 
-# Guide
-## "Installation"
-Everything you need is included in a single `.zip` file. Download the [latest version](https://github.com/meritite-union/input-prompts/releases/latest) from any of the published sources and you should be good to go. 
-## Folder Structure
-The file structure is `format / platform / theme / category / subcategory / shade / variant.format`, where:
-- `format`: `256-png` for 256x256px png images (2x upscale from Figma) or `svg` for vector graphics (at standard 128x128 1x scale).
-- `platform`: `xbox`, `ps` for PlayStation, or `pc` for Keyboard / Mouse for now.
-- `theme`: `light` or `dark`.
-- `category`: This varies by platform. It is simply a group of related prompts.
-- `subcategory`: Same as `category`. Not all categories are subcategorized.
-- `shade`: In prompts depicting a single control, `_` and `fill`. The fill variant is intended for showing an active pressed state. In other categories where multiple controls are depicted, like `dpad` or `mouse`, this is covered by variants.
-- `variant`: The file itself is named based on the specific control or variant that the prompt depicts.
+# Guía
+## Seudoinstalación
+Todo necesesita es incluido en una archivo de `.zip`. Descargue la [ultima versión](https://github.com/meritite-union/input-prompts/releases/latest) de cualquiera de las fuentes publicadas y usted va a estar bien.
+## Estructura de carpeta
+La estructura de carpeta es `formato / plataforma / tema / categoría / subcategoría / matiz / variante.formato`, cuando:
+- `formato`: `256-png` para imágines 256x256px (2x upscale de Figma) o `svg` para gr áficos vectoriales (por escala estándar 128x128).
+- `plataforma`: `xbox`, `ps` para PlayStation, o `pc` para teclado y ratón. (solamente actualmente)
+- `tema`: `light` para modo de luz o `dark` para modo oscuro.
+- `categoría`: Varía según la plataforma.
+- `subcategoría`: Misma como `categoría`. No todas las categorías son subcategorizada.
+- `matiz`: En prompts representando un solo control, `_` y `fill`. El variante fill es destinada para mostrar un estato activo. En otras categorías donde controles múltiples son representados, como `dpad` o `mouse`, es cubierto por variante.
+- `variante`: El nombre del archivo se nombra según el control específico o el variante que el prompt representa.
 
-This has some implications which may impact how you use these assets.
-- File names themselves are not necessarily unique—the folder structure is necessary information in the prompt's meaning. Both the D-pad up and left stick up have the same file name, `w.svg`, but are only distinguished by their location.
-- By extension, the images themselves may not be unique. The pack is designed to have all assets of a platform be self-contained within the respective platform folder, even if that means the same prompt is stored multiple times. For example, if you are developing a game for Xbox only, you would be able to find the left stick prompts in the `xbox` folder, even if the PlayStation left stick prompts are identical.
-## File Format
-The following information relates to the `.svg` format.
+Esto tiene algunas implicaciónes que puede impactar como usa estas assets.
+- Nombres de archivos no son necesariamente únicos—la estructura de carpetas es información necesaria para obteneter el signicicado del prompt. Por ejemplo, el D-pad arriba **y** palanca izquierda arriba tienen lo mismo nombre del archivo, `w.svg`, pero solamente se distinguen por su posición.
+- Por extensión, las imágines puede no ser únicas. El pack se diseña para tener todas las assets de una platform sean autónoma dentro la carpeta respectiva, incluyo si eso significa que el mismo prompt se almacena veces múltiples. Por ejemplo, si se desarrollara un juego por solo Xbox, se podría encontrar los prompts de palanca izquierda en la carpeta `xbox`, incluyo si los PlayStation sean idénticos.
+## Formato de archivos
+Esta información se relaciona con la formata `.svg`.
 
-All prompts fit within a 128x128 bounding box. Stroke width is generally 6 pixels. Standard colors used include ![#191923 HEX color representation](github_assets/191923.svg) `#191923`, ![#2E2836 HEX color representation](github_assets/2e2836.svg) `#2E2836`, ![#C8CED0 HEX color representation](github_assets/c8ced0.svg) `#C8CED0`, and ![#FBFEF9 HEX color representation](github_assets/fbfef9.svg) `#FBFEF9`. These colors correspond to the standard Meritite Union grayscale colors, although they might not match your brand or game. You might have some SVG automation tool I'm unaware of, but if you need to make changes, I recommend modifying and exporting the icons from the [Figma file](https://www.figma.com/community/file/1354930683181049242/input-prompts) directly. Another thing to note is that the Xbox and PlayStation colored prompts **do not** match the official brand colors, instead they are based on the Meritite Union colors. This is to avoid potential trademark infringement.
+Todos prompts se caben dentro una caja delimitadora 128x128px. Generalmente, anchura del trazo es 6 píxeles. Colores estándares usados incluyan ![#191923 representación de color HEX](github_assets/191923.svg) `#191923`, ![#2E2836 representación de color HEX](github_assets/2e2836.svg) `#2E2836`, ![#C8CED0 representación de color HEX](github_assets/c8ced0.svg) `#C8CED0`, y ![#FBFEF9 HEX color representation](github_assets/fbfef9.svg) `#FBFEF9`. Estas colores corresponder con los estándar de la Meritite Union, pero se pueden que no coincida con su marca o juego. Puede usar algún software de SVG de que soy inconsciente, pero si necesita cambiarlos, Recomendo modificar y exportar los iconos del [archivo de Figma](https://www.figma.com/community/file/1354930683181049242/input-prompts) directamente. Una otra cosa a notar es que los prompts colorados de Xbox y PlayStation **no** coincida con los colores oficiales. En cambio, son los colores del Meritite Union. Eso es para evitar posibles infracciones de marcas registradas.
 
-To try to help with import to whatever system you're using, I've formatted the file names to try to avoid your tools from throwing a fit. File and folder names consist of only lowercase a-z, underscore, and digits 0-9, although no file name begins with a digit. I'm not particularly experienced in these things, and I've only used a handful of tools. If there's a better format, please [let me know](https://github.com/meritite-union/input-prompts/issues/new)! Similarly, please leave an issue for any kind of feedback.
+Para ayudarlo con importar a cualquier sistema que usa, he formatado los nombres de archivo para evitar que sus aplicaciónes se enojen. Nombres constan únicamente de letras minúsculas a-z, guión bajo `_` y dígitos 0-9. Además, ningún nombre comienza con un dígito. 
+
+Por favor envíenme sus comentarios abriendo un [Issue de GitHub](https://github.com/meritite-union/input-prompts/issues/new). ¡Incluya problemas de traducir, por favor!
+
+¡Gracias por su interés!
 \
 \
 \
