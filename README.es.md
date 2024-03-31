@@ -14,14 +14,14 @@ Esa asset pack es hecho por @hergergy de una parte de la Meritite Union.
 
 Input Prompts es autorisado por el derecho CC0 1.0 Universal. Permiso es concedido de usar, distribuir, y modificar estos recursos. Atribución no es necesaria, pero siempre apreciado. Ahora, este proyecto no es conectado a nada oficial, luego apreciaría simplemente regresar más tarde por proyectos futuros.
 
-Este proyecto es directamente inspirado por [Kenny’s Input Prompts](https://www.kenney.nl/assets/input-prompts) y [Xelu’s](https://thoseawesomeguys.com/prompts/). Si a usted no le gusta mío, las mira.
+Este proyecto es directamente inspirado por [Kenny’s Input Prompts](https://www.kenney.nl/assets/input-prompts) y de [Xelu](https://thoseawesomeguys.com/prompts/) también. Si a usted no le gusta mío, las mira.
 
 # Guía
 ## Seudoinstalación
 Todo necesesita es incluido en una archivo de `.zip`. Descargue la [ultima versión](https://github.com/meritite-union/input-prompts/releases/latest) de cualquiera de las fuentes publicadas y usted va a estar bien.
 ## Estructura de carpeta
 La estructura de carpeta es `formato / plataforma / tema / categoría / subcategoría / matiz / variante.formato`, cuando:
-- `formato`: `256-png` para imágines 256x256px (2x upscale de Figma) o `svg` para gr áficos vectoriales (por escala estándar 128x128).
+- `formato`: `256-png` para imágines 256x256px (2x upscale de Figma) o `svg` para gráficos vectoriales (por escala estándar 128x128).
 - `plataforma`: `xbox`, `ps` para PlayStation, o `pc` para teclado y ratón. (solamente actualmente)
 - `tema`: `light` para modo de luz o `dark` para modo oscuro.
 - `categoría`: Varía según la plataforma.
