@@ -32,9 +32,9 @@ Input PromptsはCC0 1.0 Universalで許可を与えさせられます。MODIFY S
 - つまり、画像自体が重複している可能性があります. このパックは、プラットフォームのすべてのアセットがそれぞれのプラットフォーム フォルダー内に自己完結するように設計されています。例えば、PlayStation 専用のゲームを開発している場合は、Xbox の左スティック プロンプトが同じであっても、「ps」フォルダで左スティック プロンプトを見つけることができます。
 ## ファイルフォーマット
 これは`.svg`形式に固有です。
-すべてのプロンプトは 128x128ピクセルのボックスにあります。画厚さは一般に6ピクセルです。Standard colors used include ![#191923 HEX color representation](github_assets/191923.svg) `#191923`, ![#2E2836 HEX color representation](github_assets/2e2836.svg) `#2E2836`, ![#C8CED0 HEX color representation](github_assets/c8ced0.svg) `#C8CED0`, and ![#FBFEF9 HEX color representation](github_assets/fbfef9.svg) `#FBFEF9`です。この色はMeritite Unionのいろですけど、あなたのではないかもしれません。[Figma file](https://www.figma.com/community/file/1354930683181049242/input-prompts)を見ってください。
+すべてのプロンプトは 128x128ピクセルのボックスにあります。画厚さは一般に6ピクセルです。Standard colors used include ![#191923 HEX color representation](github_assets/191923.svg) `#191923`, ![#2E2836 HEX color representation](github_assets/2e2836.svg) `#2E2836`, ![#C8CED0 HEX color representation](github_assets/c8ced0.svg) `#C8CED0`, and ![#FBFEF9 HEX color representation](github_assets/fbfef9.svg) `#FBFEF9`です。この色はMeritite Unionのいろですけど、あなたのではないかもしれません。[Figma file](https://www.figma.com/community/file/1354930683181049242/input-prompts)を見てください。
 
-To try to help with import to whatever system you're using, I've formatted the file names to try to avoid your tools from throwing a fit. File and folder names consist of only lowercase a-z, underscore, and digits 0-9, although no file name begins with a digit. I'm not particularly experienced in these things, and I've only used a handful of tools. If there's a better format, please [let me know](https://github.com/meritite-union/input-prompts/issues/new)! Similarly, please leave an issue for any kind of feedback.
+使用しているシステムへのインポートを支援するには問題避けるためにファイルネームをフォーマットしみました。ファイルでフォルダのネームは小文字の`a`～`z`、アンダースコア `_`、数字 `0`～`9`ですけれど、数字で始まるファイル名は使用しません。これらのことについては特に経験がありませんし、ほんの数ツールしか使用したことがありません。そして、日本語が分かりません。[GitHub **Issue**](https://github.com/meritite-union/input-prompts/issues/new)を投稿して、フィードバックをお寄せください。言葉遣いや私を怒らせることは心配しないでください。ご関心をお寄せいただきありがとうございました！
 \
 \
 \
