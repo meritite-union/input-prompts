@@ -5,6 +5,7 @@
 </picture>
 
 ## すべてのゲーム開発のニーズのために1000以外個ベクターでラスターなプロンプト。
+###### [English](README.md) **日本語** [español](README.es.md)
 PlayStationとXboxとパソコンのはできあがります！
 Nintendo Switchのプロンプトは開発中です。Wii・Wii UやSteam Deckや汎用やもっとこうご期待！
 
