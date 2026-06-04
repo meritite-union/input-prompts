@@ -31,7 +31,7 @@ La estructura de carpeta es `formato / plataforma / tema / categoría / subcateg
 
 Esto tiene algunas implicaciónes que puede impactar como usa estas assets.
 - Nombres de archivos no son necesariamente únicos—la estructura de carpetas es información necesaria para obteneter el signicicado del prompt. Por ejemplo, el D-pad arriba **y** palanca izquierda arriba tienen lo mismo nombre del archivo, `w.svg`, pero solamente se distinguen por su posición.
-- Por extensión, las imágines puede no ser únicas. El pack se diseña para tener todas las assets de una platform sean autónoma dentro la carpeta respectiva, incluyo si eso significa que el mismo prompt se almacena veces múltiples. Por ejemplo, si se desarrollara un juego por solo Xbox, se podría encontrar los prompts de palanca izquierda en la carpeta `xbox`, incluyo si los PlayStation sean idénticos.
+- Además, las imágines puede no ser únicas. El pack se diseña para tener todas las assets de una platform sean autónoma dentro la carpeta respectiva, incluyo si eso significa que el mismo prompt se almacena veces múltiples. Por ejemplo, si se desarrollara un juego por solo Xbox, se podría encontrar los prompts de palanca izquierda en la carpeta `xbox`, incluyo si los PlayStation sean idénticos.
 ## Formato de archivos
 Esta información se relaciona con la formata `.svg`.
 
