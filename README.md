@@ -5,7 +5,6 @@
 </picture>
 
 ## 1000+ vector & raster icons for all your game development needs.
-###### **English** [日本語](README.ja-jp.md) [español](README.es.md)
 Major Release - Updated for Version 2.0! Platforms supported:
 
 * Mouse / Keyboard
@@ -27,7 +26,7 @@ This project is directly inspired by [Kenny’s Input Prompts](https://www.kenne
 ## "Installation"
 Everything you need is included in a single `.zip` file. Download the [latest version](https://github.com/meritite-union/input-prompts/releases/latest) from any of the published sources and you should be good to go. 
 ## Documentation
-Detailed documentation is now available, which lists 
+Detailed [documentation](/DOCUMENTATION.md) is now available, which lists pretty much everything you could need to know.
 \
 \
 \
