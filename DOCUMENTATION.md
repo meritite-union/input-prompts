@@ -152,7 +152,7 @@ Due to the modular, component-based format Input Prompts is built with, making y
 a. If you wish to change the inner label, use the top-right dropdown menu to select another label. Only labels with a size configured for that shape will fit correctly within the prompt. If you need more customization, [make your own label](#adjusting-prompt-labels).
 
 ## Feedback
-For feedback, please open an issue on the GitHub repository. See the README there, too, for documentation :\)
+For feedback or further questions, please open an [issue](https://github.com/meritite-union/input-prompts/issues).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github_assets/new_logo_dark.png">
