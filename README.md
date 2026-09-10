@@ -31,4 +31,8 @@ Detailed documentation is now available, which lists
 \
 \
 \
-<img src="https://github.com/meritite-union/brand/blob/c0399ebfb77d66757c189edf77639b8a349f1d62/250x250.svg" width="35" height="35" alt="Meritite Union plain purple squid mascot" style="float:right;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github_assets/new_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github_assets/new_logo_light.png">
+  <img alt="Meritite Union Squid Logo" src="github_assets/new_logo_dark.png">
+</picture>

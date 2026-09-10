@@ -144,3 +144,9 @@ To adjust a prompt label's text, find an prompt featuring the label you'd like t
 
 ### Creating custom icons
 Due to the modular, component-based format 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github_assets/new_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github_assets/new_logo_light.png">
+  <img alt="Meritite Union Squid Logo" src="github_assets/new_logo_dark.png">
+</picture>
