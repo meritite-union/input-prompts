@@ -1,0 +1,31 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2585_50983)">
+<path d="M10 70H38C39.1046 70 40 70.8954 40 72V100C40 101.105 39.1046 102 38 102H10C8.89543 102 8 101.105 8 100V72C8 70.8954 8.89543 70 10 70Z" stroke="#FBFEF9" stroke-opacity="0.75" stroke-width="4"/>
+</g>
+<g clip-path="url(#clip1_2585_50983)">
+<path d="M78 72V100H50V72H78Z" fill="#FBFEF9"/>
+<path d="M50 69H78C79.6569 69 81 70.3431 81 72V100C81 101.657 79.6569 103 78 103H50C48.3431 103 47 101.657 47 100V72C47 70.3431 48.3431 69 50 69Z" stroke="#FBFEF9" stroke-opacity="0.75" stroke-width="2"/>
+</g>
+<g clip-path="url(#clip2_2585_50983)">
+<path d="M78 32V60H50V32H78Z" fill="#FBFEF9"/>
+<path d="M50 29H78C79.6569 29 81 30.3431 81 32V60C81 61.6569 79.6569 63 78 63H50C48.3431 63 47 61.6569 47 60V32C47 30.3431 48.3431 29 50 29Z" stroke="#FBFEF9" stroke-opacity="0.75" stroke-width="2"/>
+</g>
+<g clip-path="url(#clip3_2585_50983)">
+<path d="M118 72V100H90V72H118Z" fill="#FBFEF9"/>
+<path d="M90 69H118C119.657 69 121 70.3431 121 72V100C121 101.657 119.657 103 118 103H90C88.3431 103 87 101.657 87 100V72C87 70.3431 88.3431 69 90 69Z" stroke="#FBFEF9" stroke-opacity="0.75" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_2585_50983">
+<rect width="36" height="36" fill="white" transform="translate(6 68)"/>
+</clipPath>
+<clipPath id="clip1_2585_50983">
+<rect width="36" height="36" fill="white" transform="translate(46 68)"/>
+</clipPath>
+<clipPath id="clip2_2585_50983">
+<rect width="36" height="36" fill="white" transform="translate(46 28)"/>
+</clipPath>
+<clipPath id="clip3_2585_50983">
+<rect width="36" height="36" fill="white" transform="translate(86 68)"/>
+</clipPath>
+</defs>
+</svg>
