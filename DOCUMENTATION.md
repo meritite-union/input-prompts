@@ -143,7 +143,12 @@ To adjust a base prompt component shape, navigate to the `components` tab and fi
 To adjust a prompt label's text, find an prompt featuring the label you'd like to edit and select it until you have reached text-edit mode. Use the multi-edit text to adjust as you see fit. This change may not be reflected universally, so pay attention to what has been selected and repeat the process with other prompts as you needed. In particular, `solid` and `border` fill modes may not edit with unfilled variants due to differences in where the text is layered within each frame.
 
 ### Creating custom icons
-Due to the modular, component-based format 
+Due to the modular, component-based format Input Prompts is built with, making your own prompts is easy.
+1. Start with a 128 x 128 px frame in Figma. You can use an existing prompt as a guide, or create your own.
+2. Use the `Assets` tab to find your desired base shape (under `shapes/--`) and drag it into the center of your frame.
+3. Select your `fill` type and other variants in the component select menu in the top right.
+4. Select the default label embedded inside the shape. Change the text value if you want to keep that label.
+    a. If you wish to change the inner label, use the top-right dropdown menu to select another label. Only labels with a size configured for that shape will fit correctly within the prompt. If you need more customization, [make your own label](#).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github_assets/new_logo_dark.png">
