@@ -148,7 +148,7 @@ Due to the modular, component-based format Input Prompts is built with, making y
 2. Use the `Assets` tab to find your desired base shape (under `shapes/--`) and drag it into the center of your frame.
 3. Select your `fill` type and other variants in the component select menu in the top right.
 4. Select the default label embedded inside the shape. Change the text value if you want to keep that label.
-    a. If you wish to change the inner label, use the top-right dropdown menu to select another label. Only labels with a size configured for that shape will fit correctly within the prompt. If you need more customization, [make your own label](#).
+    a. If you wish to change the inner label, use the top-right dropdown menu to select another label. Only labels with a size configured for that shape will fit correctly within the prompt. If you need more customization, [make your own label](#adjusting-prompt-labels).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github_assets/new_logo_dark.png">
