@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M96 37.5H32C25.0964 37.5 19.5 43.0964 19.5 50V78C19.5 84.9036 25.0964 90.5 32 90.5H96C102.904 90.5 108.5 84.9036 108.5 78V50C108.5 43.0964 102.904 37.5 96 37.5Z" stroke="#191923" stroke-opacity="0.75" stroke-width="7"/>
+<circle cx="33" cy="50" r="4" fill="#191923"/>
+<circle cx="48" cy="50" r="4" fill="#191923"/>
+<circle cx="64" cy="50" r="4" fill="#191923"/>
+<circle cx="80" cy="50" r="4" fill="#191923"/>
+<circle cx="95" cy="50" r="4" fill="#191923"/>
+<circle cx="33" cy="64" r="4" fill="#191923"/>
+<circle cx="48" cy="64" r="4" fill="#191923"/>
+<circle cx="64" cy="64" r="4" fill="#191923"/>
+<circle cx="80" cy="64" r="4" fill="#191923"/>
+<circle cx="95" cy="64" r="4" fill="#191923"/>
+<circle cx="33" cy="78" r="4" fill="#191923"/>
+<circle cx="48" cy="78" r="4" fill="#191923"/>
+<circle cx="64" cy="78" r="4" fill="#191923"/>
+<circle cx="80" cy="78" r="4" fill="#191923"/>
+<circle cx="95" cy="78" r="4" fill="#191923"/>
+</svg>

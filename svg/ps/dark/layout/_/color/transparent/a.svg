@@ -1,0 +1,37 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2374_44501)">
+<g clip-path="url(#clip1_2374_44501)">
+<circle cx="64" cy="24" r="21.5" stroke="#43A382" stroke-opacity="0.8" stroke-width="5"/>
+<path d="M71.7949 30.5H56.2051L64 16.999L71.7949 30.5Z" stroke="#43A382" stroke-width="3"/>
+</g>
+<g clip-path="url(#clip2_2374_44501)">
+<circle cx="64" cy="104" r="21.5" stroke="#4EA8F3" stroke-opacity="0.8" stroke-width="5"/>
+<path d="M56 96L72 112M72 96L56 112" stroke="#4EA8F3" stroke-width="3"/>
+</g>
+<g clip-path="url(#clip3_2374_44501)">
+<circle cx="104" cy="64" r="21.5" stroke="#F64A59" stroke-opacity="0.8" stroke-width="5"/>
+<circle cx="104" cy="64" r="8.5" stroke="#F64A59" stroke-width="3"/>
+</g>
+<g clip-path="url(#clip4_2374_44501)">
+<path d="M24 46.5C33.665 46.5 41.5 54.335 41.5 64C41.5 73.665 33.665 81.5 24 81.5C14.335 81.5 6.5 73.665 6.5 64C6.5 54.335 14.335 46.5 24 46.5ZM15 73H33V55H15V73ZM29.5 69.5H18.5V58.5H29.5V69.5Z" fill="#925AE7"/>
+<circle cx="24" cy="64" r="22.5" stroke="#925AE7" stroke-opacity="0.8" stroke-width="3"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2374_44501">
+<rect width="128" height="128" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2374_44501">
+<rect width="48" height="48" fill="white" transform="translate(40)"/>
+</clipPath>
+<clipPath id="clip2_2374_44501">
+<rect width="48" height="48" fill="white" transform="translate(40 80)"/>
+</clipPath>
+<clipPath id="clip3_2374_44501">
+<rect width="48" height="48" fill="white" transform="translate(80 40)"/>
+</clipPath>
+<clipPath id="clip4_2374_44501">
+<rect width="48" height="48" fill="white" transform="translate(0 40)"/>
+</clipPath>
+</defs>
+</svg>
